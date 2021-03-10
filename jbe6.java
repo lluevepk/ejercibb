@@ -12,5 +12,5 @@ public class jbe6 {
         float suma = num1+num2, resta = num1-num2, multiplicacion = num1*num2, division = num1/num2, resto = num1%num2; 
 
 
-        System.out.println("Los resultados son\n"+suma+"\n"+resta+"\n"+multiplicacion+"\n"+division+"\n"+resto);     }   
+        System.out.print("Los resultados son\n"+suma+"\n"+resta+"\n"+multiplicacion+"\n"+division+"\n"+resto);     }   
 }
